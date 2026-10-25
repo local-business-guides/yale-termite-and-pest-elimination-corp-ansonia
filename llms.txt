@@ -23,6 +23,9 @@
 - [affordable anosnia pest control Ansonia for homeowners](https://local-business-guides.github.io/yale-termite-and-pest-elimination-corp-ansonia/affordable-anosnia-pest-control-ansonia/): affordable anosnia pest control Ansonia, get help with insect and rodent problems at your home.
 - [Pest control service Ansonia homeowners can prepare for](https://local-business-guides.github.io/yale-termite-and-pest-elimination-corp-ansonia/pest-control-service-ansonia/): Pest control service Ansonia homeowners can turn to for help with insect and rodent problems in town.
 
+## Newsroom
+- [Yale Termite & Pest Elimination Corp. Releases Anosnia Pest Control Guide](https://local-business-guides.github.io/yale-termite-and-pest-elimination-corp-ansonia/news/2026-10-25-yale-termite-pest-elimination-corp-releases-anosni/): Yale Termite & Pest Elimination Corp. published an Anosnia pest control guide, a YouTube video and a podcast episode this week. (2026-10-25)
+
 ## Pages
 - [Anosnia Pest Control in Ansonia, Connecticut](https://local-business-guides.github.io/yale-termite-and-pest-elimination-corp-ansonia/): Fast, careful pest control for Ansonia homes and businesses from a local team with over 43 years of experience. Call +1203-331-8664.
 - [About and Contact Yale Termite & Pest Elimination](https://local-business-guides.github.io/yale-termite-and-pest-elimination-corp-ansonia/about/): About Yale Termite & Pest Elimination Corp., Ansonia.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/yale-termite-and-pest-elimination-corp-ansonia/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/yale-termite-and-pest-elimination-corp-ansonia/news/rss.xml)
 - [Main resource site](https://atlas-pages.localwebsites.chatgpt.site/m/yale-termite-pest-elimination-corp-anosnia-pest-control-service-areas-4e8fef/embed)
